@@ -41,6 +41,7 @@ This is a Guide for Bloomberg Professional. We are focused on:
    :caption: Examples
    
    examples/index
+   mdtest
 
 |
 |
